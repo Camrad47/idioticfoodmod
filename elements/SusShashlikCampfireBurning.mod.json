@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "campfire",
+    "cookingBookCategory": "FOOD",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:SuspiciousShashlik"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:Burnedfood"
+    },
+    "name": "sus_shashlik_campfire_burning",
+    "namespace": "mod"
+  }
+}

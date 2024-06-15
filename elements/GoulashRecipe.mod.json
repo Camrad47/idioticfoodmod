@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:betons_rations_and_food:meat_ready_to_can"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:meat_ready_to_can"
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.BOWL"
+      },
+      {
+        "value": "CUSTOM:Bfrmsalt"
+      },
+      {
+        "value": "Items.BOWL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Goulash"
+    },
+    "name": "goulash_recipe",
+    "namespace": "mod"
+  }
+}

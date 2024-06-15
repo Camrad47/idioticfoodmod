@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:water_cup"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    },
+    "c": {
+      "item": "betons_rations_and_food:cup"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:bfrmsalt",
+    "count": 1
+  }
+}

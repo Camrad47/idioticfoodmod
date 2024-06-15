@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "smelting",
+    "cookingBookCategory": "FOOD",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:GroundMeat"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:Frikadelle"
+    },
+    "name": "frikadelle_recipe_smoke",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "tag": "betons_rations_and_food:fruit_ready_to_can"
+    },
+    "b": {
+      "item": "betons_rations_and_food:water_cup"
+    },
+    "c": {
+      "item": "minecraft:sugar"
+    },
+    "d": {
+      "item": "betons_rations_and_food:steel_can"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:canned_fruit",
+    "count": 1
+  }
+}

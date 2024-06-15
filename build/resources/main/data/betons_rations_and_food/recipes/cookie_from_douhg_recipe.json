@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:dough"
+    },
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "c": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "minecraft:cookie",
+    "count": 1
+  }
+}

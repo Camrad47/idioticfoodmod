@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "tag": "betons_rations_and_food:some_seeds"
+    },
+    "b": {
+      "item": "betons_rations_and_food:brfmmortarnpestle"
+    },
+    "c": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:oil",
+    "count": 3
+  }
+}

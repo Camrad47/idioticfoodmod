@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CartboardBox"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      },
+      {
+        "value": "CUSTOM:CondensedMilk"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BoxOCondensedMilk"
+    },
+    "name": "box_o_sguha_recipe",
+    "namespace": "mod"
+  }
+}

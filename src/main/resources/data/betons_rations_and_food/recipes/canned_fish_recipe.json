@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "tag": "betons_rations_and_food:fish_ready_to_can"
+    },
+    "b": {
+      "item": "betons_rations_and_food:bfrmsalt"
+    },
+    "c": {
+      "item": "betons_rations_and_food:steel_can"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:canned_fish",
+    "count": 1
+  }
+}

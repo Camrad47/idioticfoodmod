@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "betons_rations_and_food:raw_meat"
+    },
+    {
+      "item": "betons_rations_and_food:brfmmortarnpestle"
+    }
+  ],
+  "result": {
+    "item": "betons_rations_and_food:ground_meat",
+    "count": 1
+  }
+}

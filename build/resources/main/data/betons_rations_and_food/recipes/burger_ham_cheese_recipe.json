@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "betons_rations_and_food:cheese_slices"
+    },
+    {
+      "item": "betons_rations_and_food:bread_slice"
+    },
+    {
+      "item": "betons_rations_and_food:ham_slice"
+    },
+    {
+      "item": "betons_rations_and_food:ham_slice"
+    },
+    {
+      "item": "betons_rations_and_food:cheese_slices"
+    },
+    {
+      "item": "betons_rations_and_food:bread_slice"
+    }
+  ],
+  "result": {
+    "item": "betons_rations_and_food:burger_ham_cheese",
+    "count": 1
+  }
+}

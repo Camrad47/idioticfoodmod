@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "b": {
+      "item": "betons_rations_and_food:brfmmortarnpestle"
+    },
+    "c": {
+      "item": "minecraft:sugar"
+    },
+    "d": {
+      "item": "betons_rations_and_food:water_cup"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:chocolate_bar",
+    "count": 2
+  }
+}

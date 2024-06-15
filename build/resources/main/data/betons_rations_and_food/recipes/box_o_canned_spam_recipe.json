@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:spam"
+    },
+    "b": {
+      "item": "betons_rations_and_food:cartboard_box"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:box_o_canned_spam",
+    "count": 1
+  }
+}

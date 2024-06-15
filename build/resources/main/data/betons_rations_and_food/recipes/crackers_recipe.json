@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "betons_rations_and_food:bfrmsalt"
+    }
+  ],
+  "result": {
+    "item": "betons_rations_and_food:crackers",
+    "count": 8
+  }
+}

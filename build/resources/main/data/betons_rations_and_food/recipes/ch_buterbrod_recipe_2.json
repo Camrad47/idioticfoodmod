@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:ham_slice"
+    },
+    "b": {
+      "item": "betons_rations_and_food:cheese_open_sandwich"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:cheese_ham_open_sandwich",
+    "count": 1
+  }
+}

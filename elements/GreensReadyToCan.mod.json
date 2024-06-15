@@ -1,0 +1,34 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": "Items.BEETROOT"
+      },
+      {
+        "value": "Blocks.PUMPKIN"
+      },
+      {
+        "value": "Blocks.CARVED_PUMPKIN"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "greens_ready_to_can",
+    "namespace": "mod"
+  }
+}

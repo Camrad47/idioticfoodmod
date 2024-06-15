@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " dc"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:cartboard_box"
+    },
+    "b": {
+      "item": "betons_rations_and_food:chocolate_bar"
+    },
+    "c": {
+      "item": "betons_rations_and_food:canned_meat"
+    },
+    "d": {
+      "item": "betons_rations_and_food:cracker_pack"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:small_ration_type_a",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "adc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:beetroot"
+    },
+    "b": {
+      "item": "betons_rations_and_food:bfrmsalt"
+    },
+    "c": {
+      "item": "minecraft:potato"
+    },
+    "d": {
+      "item": "minecraft:cooked_beef"
+    },
+    "e": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:borscht",
+    "count": 3
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betons_rations_and_food:block/processedhamblock"
+    }
+  }
+}

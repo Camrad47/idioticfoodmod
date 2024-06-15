@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:bfrmsalt"
+    },
+    "b": {
+      "item": "betons_rations_and_food:ham_slice"
+    },
+    "c": {
+      "item": "betons_rations_and_food:steel_can"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:spam",
+    "count": 1
+  }
+}

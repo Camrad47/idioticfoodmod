@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:flour"
+    },
+    "b": {
+      "item": "betons_rations_and_food:water_cup"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:dough",
+    "count": 1
+  }
+}

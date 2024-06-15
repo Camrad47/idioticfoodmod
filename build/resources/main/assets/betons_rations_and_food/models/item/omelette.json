@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "betons_rations_and_food:item/omelette_icon"
+  }
+}

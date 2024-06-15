@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BreadSlice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CheeseSlices"
+      },
+      {
+        "value": "CUSTOM:Frikadelle"
+      },
+      {
+        "value": "CUSTOM:CheeseSlices"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BreadSlice"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BurgerPattyCheese"
+    },
+    "name": "burger_patty_cheese_recipe",
+    "namespace": "mod"
+  }
+}

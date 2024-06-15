@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:betons_rations_and_food:some_seeds"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:some_seeds"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:some_seeds"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:some_seeds"
+      },
+      {
+        "value": "CUSTOM:Brfmmortarnpestle"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:some_seeds"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Oil"
+    },
+    "name": "oil_recipe",
+    "namespace": "mod"
+  }
+}

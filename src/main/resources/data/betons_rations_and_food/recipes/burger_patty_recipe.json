@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "betons_rations_and_food:bread_slice"
+    },
+    {
+      "item": "betons_rations_and_food:frikadelle"
+    },
+    {
+      "item": "betons_rations_and_food:bread_slice"
+    }
+  ],
+  "result": {
+    "item": "betons_rations_and_food:burger_patty",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CheeseSlices"
+      },
+      {
+        "value": "CUSTOM:BreadSlice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HamSlice"
+      },
+      {
+        "value": "CUSTOM:HamSlice"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CheeseSlices"
+      },
+      {
+        "value": "CUSTOM:BreadSlice"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BurgerHamCheese"
+    },
+    "name": "burger_ham_cheese_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:processedhamblock"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:ham_slice",
+    "count": 9
+  }
+}

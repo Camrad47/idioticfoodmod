@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Oil"
+      },
+      {
+        "value": "CUSTOM:Dough"
+      },
+      {
+        "value": "CUSTOM:Dough"
+      },
+      {
+        "value": "CUSTOM:Dough"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:raw_meat"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:raw_meat"
+      },
+      {
+        "value": "CUSTOM:Dough"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:raw_meat"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CheburekRaw"
+    },
+    "name": "cheburek_recipe",
+    "namespace": "mod"
+  }
+}

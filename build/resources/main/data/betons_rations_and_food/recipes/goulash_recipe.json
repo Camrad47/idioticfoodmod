@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "tag": "betons_rations_and_food:meat_ready_to_can"
+    },
+    "b": {
+      "item": "minecraft:carrot"
+    },
+    "c": {
+      "item": "minecraft:potato"
+    },
+    "d": {
+      "item": "minecraft:bowl"
+    },
+    "e": {
+      "item": "betons_rations_and_food:bfrmsalt"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:goulash",
+    "count": 3
+  }
+}

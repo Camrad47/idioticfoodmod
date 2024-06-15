@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bcc",
+    "bcc"
+  ],
+  "key": {
+    "a": {
+      "item": "betons_rations_and_food:oil"
+    },
+    "b": {
+      "item": "betons_rations_and_food:dough"
+    },
+    "c": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:cheburek_raw",
+    "count": 3
+  }
+}

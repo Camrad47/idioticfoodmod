@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CartboardBox"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      },
+      {
+        "value": "CUSTOM:CannedBread"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BoxOCannedBread"
+    },
+    "name": "box_o_canned_bread_recipe",
+    "namespace": "mod"
+  }
+}

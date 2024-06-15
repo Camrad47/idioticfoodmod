@@ -1,0 +1,146 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.rationsandfood.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
+
+import net.mcreator.rationsandfood.item.WaterCupItem;
+import net.mcreator.rationsandfood.item.SuspiciousShashlikItem;
+import net.mcreator.rationsandfood.item.SteelCanItem;
+import net.mcreator.rationsandfood.item.SmallRationTypeDItem;
+import net.mcreator.rationsandfood.item.SmallRationTypeCItem;
+import net.mcreator.rationsandfood.item.SmallRationTypeBItem;
+import net.mcreator.rationsandfood.item.SmallRationTypeAItem;
+import net.mcreator.rationsandfood.item.ShaslikrawItem;
+import net.mcreator.rationsandfood.item.ShashlikItem;
+import net.mcreator.rationsandfood.item.SPAMItem;
+import net.mcreator.rationsandfood.item.OmeletteRawItem;
+import net.mcreator.rationsandfood.item.OmeletteItem;
+import net.mcreator.rationsandfood.item.OilItem;
+import net.mcreator.rationsandfood.item.MosnterShashlikItem;
+import net.mcreator.rationsandfood.item.HamSliceItem;
+import net.mcreator.rationsandfood.item.HamOpenSandwichItem;
+import net.mcreator.rationsandfood.item.GroundMeatItem;
+import net.mcreator.rationsandfood.item.GoulashItem;
+import net.mcreator.rationsandfood.item.FrikadelleItem;
+import net.mcreator.rationsandfood.item.FriedEggsItem;
+import net.mcreator.rationsandfood.item.FlourItem;
+import net.mcreator.rationsandfood.item.DoughItem;
+import net.mcreator.rationsandfood.item.CupItem;
+import net.mcreator.rationsandfood.item.CrackersItem;
+import net.mcreator.rationsandfood.item.CrackerPackItem;
+import net.mcreator.rationsandfood.item.CondensedMilkItem;
+import net.mcreator.rationsandfood.item.ChocolateBarItem;
+import net.mcreator.rationsandfood.item.CheeseSlicesItem;
+import net.mcreator.rationsandfood.item.CheeseOpenSandwichItem;
+import net.mcreator.rationsandfood.item.CheeseItem;
+import net.mcreator.rationsandfood.item.CheeseHamOpenSandwichItem;
+import net.mcreator.rationsandfood.item.CheburekRawItem;
+import net.mcreator.rationsandfood.item.CheburekItem;
+import net.mcreator.rationsandfood.item.CartboardBoxItem;
+import net.mcreator.rationsandfood.item.CannedMeatItem;
+import net.mcreator.rationsandfood.item.CannedGreensItem;
+import net.mcreator.rationsandfood.item.CannedFruitItem;
+import net.mcreator.rationsandfood.item.CannedFishItem;
+import net.mcreator.rationsandfood.item.CannedBreadItem;
+import net.mcreator.rationsandfood.item.BurnedfoodItem;
+import net.mcreator.rationsandfood.item.BurgerPattyItem;
+import net.mcreator.rationsandfood.item.BurgerPattyCheeseItem;
+import net.mcreator.rationsandfood.item.BurgerHamItem;
+import net.mcreator.rationsandfood.item.BurgerHamCheeseItem;
+import net.mcreator.rationsandfood.item.BrfmmortarnpestleItem;
+import net.mcreator.rationsandfood.item.BreadSliceItem;
+import net.mcreator.rationsandfood.item.BoxOCrackersItem;
+import net.mcreator.rationsandfood.item.BoxOCondensedMilkItem;
+import net.mcreator.rationsandfood.item.BoxOChocolateItem;
+import net.mcreator.rationsandfood.item.BoxOCannedSpamItem;
+import net.mcreator.rationsandfood.item.BoxOCannedMeatItem;
+import net.mcreator.rationsandfood.item.BoxOCannedGreensItem;
+import net.mcreator.rationsandfood.item.BoxOCannedFruitItem;
+import net.mcreator.rationsandfood.item.BoxOCannedFishItem;
+import net.mcreator.rationsandfood.item.BoxOCannedBreadItem;
+import net.mcreator.rationsandfood.item.BorschtItem;
+import net.mcreator.rationsandfood.item.BigRationTypeDItem;
+import net.mcreator.rationsandfood.item.BigRationTypeCItem;
+import net.mcreator.rationsandfood.item.BigRationTypeBItem;
+import net.mcreator.rationsandfood.item.BigRationTypeAItem;
+import net.mcreator.rationsandfood.item.BfrmsaltItem;
+import net.mcreator.rationsandfood.BetonsRationsAndFoodMod;
+
+public class BetonsRationsAndFoodModItems {
+	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, BetonsRationsAndFoodMod.MODID);
+	public static final RegistryObject<Item> BORSCHT = REGISTRY.register("borscht", () -> new BorschtItem());
+	public static final RegistryObject<Item> SHASHLIK = REGISTRY.register("shashlik", () -> new ShashlikItem());
+	public static final RegistryObject<Item> SHASLIKRAW = REGISTRY.register("shaslikraw", () -> new ShaslikrawItem());
+	public static final RegistryObject<Item> SUSPICIOUS_SHASHLIK = REGISTRY.register("suspicious_shashlik", () -> new SuspiciousShashlikItem());
+	public static final RegistryObject<Item> MOSNTER_SHASHLIK = REGISTRY.register("mosnter_shashlik", () -> new MosnterShashlikItem());
+	public static final RegistryObject<Item> BURNEDFOOD = REGISTRY.register("burnedfood", () -> new BurnedfoodItem());
+	public static final RegistryObject<Item> BRFMMORTARNPESTLE = REGISTRY.register("brfmmortarnpestle", () -> new BrfmmortarnpestleItem());
+	public static final RegistryObject<Item> PROCESSEDHAMBLOCK = block(BetonsRationsAndFoodModBlocks.PROCESSEDHAMBLOCK);
+	public static final RegistryObject<Item> HAM_SLICE = REGISTRY.register("ham_slice", () -> new HamSliceItem());
+	public static final RegistryObject<Item> BFRMSALT = REGISTRY.register("bfrmsalt", () -> new BfrmsaltItem());
+	public static final RegistryObject<Item> FLOUR = REGISTRY.register("flour", () -> new FlourItem());
+	public static final RegistryObject<Item> DOUGH = REGISTRY.register("dough", () -> new DoughItem());
+	public static final RegistryObject<Item> CUP = REGISTRY.register("cup", () -> new CupItem());
+	public static final RegistryObject<Item> WATER_CUP = REGISTRY.register("water_cup", () -> new WaterCupItem());
+	public static final RegistryObject<Item> STEEL_CAN = REGISTRY.register("steel_can", () -> new SteelCanItem());
+	public static final RegistryObject<Item> GROUND_MEAT = REGISTRY.register("ground_meat", () -> new GroundMeatItem());
+	public static final RegistryObject<Item> FRIKADELLE = REGISTRY.register("frikadelle", () -> new FrikadelleItem());
+	public static final RegistryObject<Item> SPAM = REGISTRY.register("spam", () -> new SPAMItem());
+	public static final RegistryObject<Item> CANNED_MEAT = REGISTRY.register("canned_meat", () -> new CannedMeatItem());
+	public static final RegistryObject<Item> CANNED_FISH = REGISTRY.register("canned_fish", () -> new CannedFishItem());
+	public static final RegistryObject<Item> CANNED_GREENS = REGISTRY.register("canned_greens", () -> new CannedGreensItem());
+	public static final RegistryObject<Item> CANNED_BREAD = REGISTRY.register("canned_bread", () -> new CannedBreadItem());
+	public static final RegistryObject<Item> CANNED_FRUIT = REGISTRY.register("canned_fruit", () -> new CannedFruitItem());
+	public static final RegistryObject<Item> CONDENSED_MILK = REGISTRY.register("condensed_milk", () -> new CondensedMilkItem());
+	public static final RegistryObject<Item> GOULASH = REGISTRY.register("goulash", () -> new GoulashItem());
+	public static final RegistryObject<Item> CHEESE = REGISTRY.register("cheese", () -> new CheeseItem());
+	public static final RegistryObject<Item> CHEESE_SLICES = REGISTRY.register("cheese_slices", () -> new CheeseSlicesItem());
+	public static final RegistryObject<Item> BREAD_SLICE = REGISTRY.register("bread_slice", () -> new BreadSliceItem());
+	public static final RegistryObject<Item> HAM_OPEN_SANDWICH = REGISTRY.register("ham_open_sandwich", () -> new HamOpenSandwichItem());
+	public static final RegistryObject<Item> CHEESE_OPEN_SANDWICH = REGISTRY.register("cheese_open_sandwich", () -> new CheeseOpenSandwichItem());
+	public static final RegistryObject<Item> CHEESE_HAM_OPEN_SANDWICH = REGISTRY.register("cheese_ham_open_sandwich", () -> new CheeseHamOpenSandwichItem());
+	public static final RegistryObject<Item> BURGER_PATTY = REGISTRY.register("burger_patty", () -> new BurgerPattyItem());
+	public static final RegistryObject<Item> BURGER_HAM = REGISTRY.register("burger_ham", () -> new BurgerHamItem());
+	public static final RegistryObject<Item> BURGER_PATTY_CHEESE = REGISTRY.register("burger_patty_cheese", () -> new BurgerPattyCheeseItem());
+	public static final RegistryObject<Item> BURGER_HAM_CHEESE = REGISTRY.register("burger_ham_cheese", () -> new BurgerHamCheeseItem());
+	public static final RegistryObject<Item> CRACKERS = REGISTRY.register("crackers", () -> new CrackersItem());
+	public static final RegistryObject<Item> CRACKER_PACK = REGISTRY.register("cracker_pack", () -> new CrackerPackItem());
+	public static final RegistryObject<Item> SMALL_RATION_TYPE_A = REGISTRY.register("small_ration_type_a", () -> new SmallRationTypeAItem());
+	public static final RegistryObject<Item> SMALL_RATION_TYPE_B = REGISTRY.register("small_ration_type_b", () -> new SmallRationTypeBItem());
+	public static final RegistryObject<Item> SMALL_RATION_TYPE_C = REGISTRY.register("small_ration_type_c", () -> new SmallRationTypeCItem());
+	public static final RegistryObject<Item> SMALL_RATION_TYPE_D = REGISTRY.register("small_ration_type_d", () -> new SmallRationTypeDItem());
+	public static final RegistryObject<Item> BIG_RATION_TYPE_A = REGISTRY.register("big_ration_type_a", () -> new BigRationTypeAItem());
+	public static final RegistryObject<Item> BIG_RATION_TYPE_B = REGISTRY.register("big_ration_type_b", () -> new BigRationTypeBItem());
+	public static final RegistryObject<Item> BIG_RATION_TYPE_C = REGISTRY.register("big_ration_type_c", () -> new BigRationTypeCItem());
+	public static final RegistryObject<Item> BIG_RATION_TYPE_D = REGISTRY.register("big_ration_type_d", () -> new BigRationTypeDItem());
+	public static final RegistryObject<Item> CHOCOLATE_BAR = REGISTRY.register("chocolate_bar", () -> new ChocolateBarItem());
+	public static final RegistryObject<Item> CARTBOARD_BOX = REGISTRY.register("cartboard_box", () -> new CartboardBoxItem());
+	public static final RegistryObject<Item> BOX_O_CHOCOLATE = REGISTRY.register("box_o_chocolate", () -> new BoxOChocolateItem());
+	public static final RegistryObject<Item> BOX_O_CRACKERS = REGISTRY.register("box_o_crackers", () -> new BoxOCrackersItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_MEAT = REGISTRY.register("box_o_canned_meat", () -> new BoxOCannedMeatItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_FISH = REGISTRY.register("box_o_canned_fish", () -> new BoxOCannedFishItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_GREENS = REGISTRY.register("box_o_canned_greens", () -> new BoxOCannedGreensItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_BREAD = REGISTRY.register("box_o_canned_bread", () -> new BoxOCannedBreadItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_FRUIT = REGISTRY.register("box_o_canned_fruit", () -> new BoxOCannedFruitItem());
+	public static final RegistryObject<Item> BOX_O_CANNED_SPAM = REGISTRY.register("box_o_canned_spam", () -> new BoxOCannedSpamItem());
+	public static final RegistryObject<Item> BOX_O_CONDENSED_MILK = REGISTRY.register("box_o_condensed_milk", () -> new BoxOCondensedMilkItem());
+	public static final RegistryObject<Item> FRIED_EGGS = REGISTRY.register("fried_eggs", () -> new FriedEggsItem());
+	public static final RegistryObject<Item> OMELETTE = REGISTRY.register("omelette", () -> new OmeletteItem());
+	public static final RegistryObject<Item> OMELETTE_RAW = REGISTRY.register("omelette_raw", () -> new OmeletteRawItem());
+	public static final RegistryObject<Item> CHEBUREK_RAW = REGISTRY.register("cheburek_raw", () -> new CheburekRawItem());
+	public static final RegistryObject<Item> CHEBUREK = REGISTRY.register("cheburek", () -> new CheburekItem());
+	public static final RegistryObject<Item> OIL = REGISTRY.register("oil", () -> new OilItem());
+
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
+}

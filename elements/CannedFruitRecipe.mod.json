@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:betons_rations_and_food:fruit_ready_to_can"
+      },
+      {
+        "value": "CUSTOM:WaterCup"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:fruit_ready_to_can"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:fruit_ready_to_can"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:fruit_ready_to_can"
+      },
+      {
+        "value": "TAG:betons_rations_and_food:fruit_ready_to_can"
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "CUSTOM:SteelCan"
+      },
+      {
+        "value": "Items.SUGAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CannedFruit"
+    },
+    "name": "canned_fruit_recipe",
+    "namespace": "mod"
+  }
+}

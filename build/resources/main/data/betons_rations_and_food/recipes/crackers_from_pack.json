@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "betons_rations_and_food:cracker_pack"
+    }
+  ],
+  "result": {
+    "item": "betons_rations_and_food:crackers",
+    "count": 8
+  }
+}

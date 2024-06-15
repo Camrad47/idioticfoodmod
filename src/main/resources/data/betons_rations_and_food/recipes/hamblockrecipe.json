@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:porkchop"
+    },
+    "b": {
+      "item": "betons_rations_and_food:bfrmsalt"
+    }
+  },
+  "result": {
+    "item": "betons_rations_and_food:processedhamblock",
+    "count": 1
+  }
+}

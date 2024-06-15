@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "betons_rations_and_food:block/processed_ham_block_texture",
+    "up": "betons_rations_and_food:block/processed_ham_block_texture",
+    "north": "betons_rations_and_food:block/processed_ham_block_texture",
+    "east": "betons_rations_and_food:block/processed_ham_block_texture",
+    "south": "betons_rations_and_food:block/processed_ham_block_texture",
+    "west": "betons_rations_and_food:block/processed_ham_block_texture",
+    "particle": "betons_rations_and_food:block/ham_block_break_particle"
+  },
+  "render_type": "solid"
+}

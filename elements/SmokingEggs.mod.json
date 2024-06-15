@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.EGG"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:FriedEggs"
+    },
+    "name": "smoking_eggs",
+    "namespace": "mod"
+  }
+}

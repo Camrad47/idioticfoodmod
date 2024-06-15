@@ -1,0 +1,2501 @@
+{
+  "mod_elements": [
+    {
+      "name": "BRFMtab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brf_mtab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Borscht",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borscht",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/borscht.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BorschtItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Borshctrecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borshctrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/borshctrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Borschtrecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borschtrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/borschtrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Borschtrecipe1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borschtrecipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/borschtrecipe_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Shashlik",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shashlik",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/shashlik.json",
+          "src/main/java/net/mcreator/rationsandfood/item/ShashlikItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Shaslikraw",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslikraw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/shaslikraw.json",
+          "src/main/java/net/mcreator/rationsandfood/item/ShaslikrawItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Shaslikrawrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslikrawrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shaslikrawrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Shaslikrawrecipe1",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslikrawrecipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shaslikrawrecipe_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Shaslikrawrecipe2",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslikrawrecipe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shaslikrawrecipe_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SuspiciousShashlik",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "suspicious_shashlik",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/SuspiciousShashlikItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/suspicious_shashlik.json"
+        ]
+      }
+    },
+    {
+      "name": "MosnterShashlik",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosnter_shashlik",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/mosnter_shashlik.json",
+          "src/main/java/net/mcreator/rationsandfood/item/MosnterShashlikItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MonsterShaslikRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monster_shaslik_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/monster_shaslik_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ShaslikRecipesmelt",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslik_recipesmelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shaslik_recipesmelt.json"
+        ]
+      }
+    },
+    {
+      "name": "Shaslikrecipecampfire",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shaslikrecipecampfire",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shaslikrecipecampfire.json"
+        ]
+      }
+    },
+    {
+      "name": "SusShashlikSmelt",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_shashlik_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/sus_shashlik_smelt.json"
+        ]
+      }
+    },
+    {
+      "name": "SusShashlikCampfire",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_shashlik_campfire",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/sus_shashlik_campfire.json"
+        ]
+      }
+    },
+    {
+      "name": "Burnedfood",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burnedfood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/burnedfood.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BurnedfoodItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ShashlikBurning",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shashlik_burning",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shashlik_burning.json"
+        ]
+      }
+    },
+    {
+      "name": "SusShashlikBurning",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_shashlik_burning",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/sus_shashlik_burning.json"
+        ]
+      }
+    },
+    {
+      "name": "ShashlikCampfireBurning",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shashlik_campfire_burning",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/shashlik_campfire_burning.json"
+        ]
+      }
+    },
+    {
+      "name": "SusShashlikCampfireBurning",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sus_shashlik_campfire_burning",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/sus_shashlik_campfire_burning.json"
+        ]
+      }
+    },
+    {
+      "name": "Brfmmortarnpestle",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brfmmortarnpestle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BrfmmortarnpestleItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/brfmmortarnpestle.json"
+        ]
+      }
+    },
+    {
+      "name": "Processedhamblock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "processedhamblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/processedhamblock.json",
+          "src/main/resources/assets/betons_rations_and_food/blockstates/processedhamblock.json",
+          "src/main/resources/assets/betons_rations_and_food/models/block/processedhamblock.json",
+          "src/main/java/net/mcreator/rationsandfood/block/ProcessedhamblockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "HamSlice",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ham_slice",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/HamSliceItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/ham_slice.json"
+        ]
+      }
+    },
+    {
+      "name": "Bfrmsalt",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bfrmsalt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/bfrmsalt.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BfrmsaltItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hamblockrecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hamblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/hamblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hamblockrecipe1",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hamblockrecipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/hamblockrecipe_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Hamslicerecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hamslicerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/hamslicerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Salttrade",
+      "type": "villagertrade",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salttrade",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/FlourItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/flour.json"
+        ]
+      }
+    },
+    {
+      "name": "Flourrecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flourrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/flourrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Dough",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dough",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/dough.json",
+          "src/main/java/net/mcreator/rationsandfood/item/DoughItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Cup",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CupItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/cup.json"
+        ]
+      }
+    },
+    {
+      "name": "WaterCup",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_cup",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/water_cup.json",
+          "src/main/java/net/mcreator/rationsandfood/item/WaterCupItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CupRightclicked",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cup_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/CupRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WaterCupRightClick",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_cup_right_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/WaterCupRightClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Doughrecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doughrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/doughrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CupRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cup_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cup_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BreadFromDoughRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_from_dough_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/bread_from_dough_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BreadFromDoughRecipe1",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_from_dough_recipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/bread_from_dough_recipe_1.json"
+        ]
+      }
+    },
+    {
+      "name": "SteelCan",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_can",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/SteelCanItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/steel_can.json"
+        ]
+      }
+    },
+    {
+      "name": "SteelCanRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_can_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/steel_can_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BreadSlice",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bread_slice",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/bread_slice.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BreadSliceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Breadslicerecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "breadslicerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/breadslicerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HamOpenSandwich",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ham_open_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/ham_open_sandwich.json",
+          "src/main/java/net/mcreator/rationsandfood/item/HamOpenSandwichItem.java"
+        ]
+      }
+    },
+    {
+      "name": "HamButerbrodRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ham_buterbrod_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/ham_buterbrod_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SPAM",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/SPAMItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/spam.json"
+        ]
+      }
+    },
+    {
+      "name": "SPAMRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spam_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/spam_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GroundMeat",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ground_meat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/GroundMeatItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/ground_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "GroundMeatRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ground_meat_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/ground_meat_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RawMeat",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/tags/items/raw_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "FricadelleRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fricadelle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/fricadelle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Frikadelle",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frikadelle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/FrikadelleItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/frikadelle.json"
+        ]
+      }
+    },
+    {
+      "name": "FrikadelleRecipeSmoke",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frikadelle_recipe_smoke",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/frikadelle_recipe_smoke.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerPatty",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_patty",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BurgerPattyItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/burger_patty.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerHam",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_ham",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BurgerHamItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/burger_ham.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerPattyRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_patty_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/burger_patty_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerHamRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_ham_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/burger_ham_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedMeat",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_meat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CannedMeatItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/canned_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedFish",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_fish",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CannedFishItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/canned_fish.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedMeatRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_meat_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/canned_meat_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MeatReadyToCan",
+      "type": "tag",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_ready_to_can",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/tags/items/meat_ready_to_can.json"
+        ]
+      }
+    },
+    {
+      "name": "FishReadyToCan",
+      "type": "tag",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fish_ready_to_can",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/tags/items/fish_ready_to_can.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedFishRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_fish_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/canned_fish_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedGreens",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_greens",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/canned_greens.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CannedGreensItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GreensReadyToCan",
+      "type": "tag",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greens_ready_to_can",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/tags/items/greens_ready_to_can.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedGreensRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_greens_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/canned_greens_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedBread",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_bread",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/canned_bread.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CannedBreadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CannedBreadRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_bread_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/canned_bread_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Goulash",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goulash",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/GoulashItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/goulash.json"
+        ]
+      }
+    },
+    {
+      "name": "GoulashRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goulash_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/goulash_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MortarnpestleRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mortarnpestle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/mortarnpestle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedFruit",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_fruit",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CannedFruitItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/canned_fruit.json"
+        ]
+      }
+    },
+    {
+      "name": "CannedFruitRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canned_fruit_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/canned_fruit_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FruitReadyToCan",
+      "type": "tag",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fruit_ready_to_can",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/tags/items/fruit_ready_to_can.json"
+        ]
+      }
+    },
+    {
+      "name": "Cheese",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheese.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CheeseItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CheeseRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheese_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseSlices",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_slices",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CheeseSlicesItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheese_slices.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseSliceRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_slice_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheese_slice_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseOpenSandwich",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_open_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CheeseOpenSandwichItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheese_open_sandwich.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseHamOpenSandwich",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_ham_open_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CheeseHamOpenSandwichItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheese_ham_open_sandwich.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseButerbrodRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_buterbrod_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheese_buterbrod_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseHamButerbrodRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheese_ham_buterbrod_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheese_ham_buterbrod_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CHButerbrodRecipe1",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ch_buterbrod_recipe_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/ch_buterbrod_recipe_1.json"
+        ]
+      }
+    },
+    {
+      "name": "CHButerbrodRecipe2",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ch_buterbrod_recipe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/ch_buterbrod_recipe_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CanSmelting",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "can_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/can_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "CanBlasting",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "can_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/can_blasting.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerPattyCheese",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_patty_cheese",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BurgerPattyCheeseItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/burger_patty_cheese.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerHamCheese",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_ham_cheese",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/burger_ham_cheese.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BurgerHamCheeseItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BurgerPattyCheeseRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_patty_cheese_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/burger_patty_cheese_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BurgerHamCheeseRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burger_ham_cheese_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/burger_ham_cheese_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Crackers",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crackers",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/crackers.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CrackersItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CrackersRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crackers_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/crackers_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackerPack",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracker_pack",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/CrackerPackItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/cracker_pack.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackerPackRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracker_pack_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cracker_pack_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CrackersFromPack",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crackers_from_pack",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/crackers_from_pack.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeA",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_a",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/small_ration_type_a.json",
+          "src/main/java/net/mcreator/rationsandfood/item/SmallRationTypeAItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeB",
+      "type": "item",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_b",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/small_ration_type_b.json",
+          "src/main/java/net/mcreator/rationsandfood/item/SmallRationTypeBItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeC",
+      "type": "item",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_c",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/small_ration_type_c.json",
+          "src/main/java/net/mcreator/rationsandfood/item/SmallRationTypeCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeD",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_d",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/SmallRationTypeDItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/small_ration_type_d.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeA",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_a",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/big_ration_type_a.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BigRationTypeAItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeB",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_b",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BigRationTypeBItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/big_ration_type_b.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeC",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_c",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/big_ration_type_c.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BigRationTypeCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeD",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_d",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BigRationTypeDItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/big_ration_type_d.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeARecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_a_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/small_ration_type_a_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeBRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_b_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/small_ration_type_b_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeCRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_c_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/small_ration_type_c_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeDRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_d_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/small_ration_type_d_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ChocolateBar",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chocolate_bar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/chocolate_bar.json",
+          "src/main/java/net/mcreator/rationsandfood/item/ChocolateBarItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ChocolateBarRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chocolate_bar_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/chocolate_bar_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeARecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_a_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/big_ration_type_a_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeBRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_b_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/big_ration_type_b_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeCRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_c_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/big_ration_type_c_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeDRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_d_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/big_ration_type_d_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeARightclicked",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_a_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/SmallRationTypeARightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeBClick",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_b_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/SmallRationTypeBClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeCClick",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_c_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/SmallRationTypeCClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallRationTypeDClick",
+      "type": "procedure",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_ration_type_d_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/SmallRationTypeDClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeAclick",
+      "type": "procedure",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_aclick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BigRationTypeAclickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeBclick",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_bclick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BigRationTypeBclickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeCclick",
+      "type": "procedure",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_cclick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BigRationTypeCclickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BigRationTypeDclick",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_ration_type_dclick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BigRationTypeDclickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CartboardBox",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cartboard_box",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/cartboard_box.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CartboardBoxItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CartboardBoxRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cartboard_box_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cartboard_box_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CartboardBoxPlus",
+      "type": "itemextension",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cartboard_box_plus",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "BoxOChocolate",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_chocolate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_chocolate.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOChocolateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOChocolateRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_chocolate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_chocolate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOChocolateClick",
+      "type": "procedure",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_chocolate_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOChocolateClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCrackers",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_crackers",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_crackers.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCrackersItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedMeat",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_meat.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFish",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fish",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedFishItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_fish.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedGreens",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_greens",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedGreensItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_greens.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedBread",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_bread",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedBreadItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_bread.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFruit",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fruit",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_fruit.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedFruitItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedSpam",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_spam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_canned_spam.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCannedSpamItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCrackersRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_crackers_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_crackers_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedMeatRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_meat_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_meat_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFishRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fish_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_fish_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedGreensRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_greens_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_greens_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedBreadRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_bread_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_bread_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFruitRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fruit_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_fruit_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedSpamRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_spam_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_canned_spam_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedMeatClick",
+      "type": "procedure",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_meat_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedMeatClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFishClick",
+      "type": "procedure",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fish_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedFishClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedGreensClick",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_greens_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedGreensClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedBreadClick",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_bread_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedBreadClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedFruitClick",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_fruit_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedFruitClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedSpamClick",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_spam_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedSpamClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CondensedMilk",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/condensed_milk.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CondensedMilkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CondensedMilkRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_milk_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/condensed_milk_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCondensedMilk",
+      "type": "item",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_condensed_milk",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/box_o_condensed_milk.json",
+          "src/main/java/net/mcreator/rationsandfood/item/BoxOCondensedMilkItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BoxOCannedSguhaClick",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_canned_sguha_click",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/procedures/BoxOCannedSguhaClickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BoxOSguhaRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_o_sguha_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/box_o_sguha_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FriedEggs",
+      "type": "item",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fried_eggs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/fried_eggs.json",
+          "src/main/java/net/mcreator/rationsandfood/item/FriedEggsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FryingEggs",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frying_eggs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/frying_eggs.json"
+        ]
+      }
+    },
+    {
+      "name": "SmokingEggs",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoking_eggs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/smoking_eggs.json"
+        ]
+      }
+    },
+    {
+      "name": "Omelette",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omelette",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/OmeletteItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/omelette.json"
+        ]
+      }
+    },
+    {
+      "name": "OmeletteRaw",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omelette_raw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/rationsandfood/item/OmeletteRawItem.java",
+          "src/main/resources/assets/betons_rations_and_food/models/item/omelette_raw.json"
+        ]
+      }
+    },
+    {
+      "name": "OmeletteSmelting",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omelette_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/omelette_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "OmeletteSmoking",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omelette_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/omelette_smoking.json"
+        ]
+      }
+    },
+    {
+      "name": "CookieFromDouhgRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cookie_from_douhg_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cookie_from_douhg_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OmeletteRawRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omelette_raw_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/omelette_raw_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CheburekRaw",
+      "type": "item",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheburek_raw",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheburek_raw.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CheburekRawItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CheburekRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheburek_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheburek_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CheburekRecipeSus",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheburek_recipe_sus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/betons_rations_and_food/recipes/cheburek_recipe_sus.json"
+        ]
+      }
+    },
+    {
+      "name": "Cheburek",
+      "type": "item",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheburek",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/betons_rations_and_food/models/item/cheburek.json",
+          "src/main/java/net/mcreator/rationsandfood/item/CheburekItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.betons_rations_and_food.cheese_ham_open_sandwich": "Open sandwich - ham and cheese",
+      "item.betons_rations_and_food.cartboard_box": "Cartboard Box",
+      "item.betons_rations_and_food.box_o_canned_meat": "Box of Canned Meat",
+      "item.betons_rations_and_food.canned_meat": "Canned Meat",
+      "item.betons_rations_and_food.box_o_canned_fish": "Box of Canned Fish",
+      "item.betons_rations_and_food.box_o_canned_greens": "Box of Canned Vegetables",
+      "item.betons_rations_and_food.burger_ham": "Burger",
+      "item.betons_rations_and_food.box_o_canned_spam": "Box of SPAM",
+      "item.betons_rations_and_food.box_o_canned_bread": "Box of Canned Bread",
+      "item.betons_rations_and_food.ground_meat": "Ground Meat",
+      "item.betons_rations_and_food.crackers": "Crackers",
+      "block.betons_rations_and_food.processedhamblock": "Processed ham",
+      "item.betons_rations_and_food.flour": "Flour",
+      "item.betons_rations_and_food.borscht": "Bowl of Borscht",
+      "item.betons_rations_and_food.small_ration_type_a": "Small Ration - Type A",
+      "item.betons_rations_and_food.small_ration_type_b": "Small Ration - Type B",
+      "item.betons_rations_and_food.small_ration_type_c": "Small Ration - Type C",
+      "item.betons_rations_and_food.box_o_canned_fruit": "Box of Canned Fruits",
+      "item.betons_rations_and_food.small_ration_type_d": "Small Ration - Type D",
+      "item.betons_rations_and_food.cheburek": "Cheburek",
+      "item.betons_rations_and_food.cheese": "Cheese",
+      "item.betons_rations_and_food.omelette_raw": "Omelette Raw",
+      "item.betons_rations_and_food.canned_fish": "Canned Fish",
+      "item.betons_rations_and_food.goulash": "Bowl of Goulash",
+      "item.betons_rations_and_food.brfmmortarnpestle": "Mortar and pestle",
+      "item.betons_rations_and_food.steel_can": "Steel Can",
+      "item.betons_rations_and_food.canned_bread": "Canned Bread",
+      "item.betons_rations_and_food.water_cup": "Water cup",
+      "item_group.betons_rations_and_food.brf_mtab": "BRFM",
+      "item.betons_rations_and_food.ham_open_sandwich": "Open sandwich - ham",
+      "item.betons_rations_and_food.burnedfood": "Burned food",
+      "item.betons_rations_and_food.suspicious_shashlik": "Suspicious Shashlik",
+      "item.betons_rations_and_food.frikadelle": "Frikadelle",
+      "item.betons_rations_and_food.fried_eggs": "Fried egg",
+      "item.betons_rations_and_food.cheburek_raw": "Raw Cheburek",
+      "item.betons_rations_and_food.shaslikraw": "Raw Shashlik",
+      "item.betons_rations_and_food.box_o_crackers": "Box of Crackers",
+      "item.betons_rations_and_food.shashlik": "Shashlik",
+      "item.betons_rations_and_food.cup": "Cup",
+      "item.betons_rations_and_food.bfrmsalt": "Salt",
+      "item.betons_rations_and_food.burger_ham_cheese": "Burger with ham and cheese",
+      "item.betons_rations_and_food.chocolate_bar": "Chocolate bar",
+      "item.betons_rations_and_food.burger_patty": "Burger",
+      "item.betons_rations_and_food.cheese_open_sandwich": "Open sandwich - cheese",
+      "item.betons_rations_and_food.canned_fruit": "Canned Fruits",
+      "item.betons_rations_and_food.spam": "SPAM can",
+      "item.betons_rations_and_food.condensed_milk": "Condensed Milk",
+      "item.betons_rations_and_food.burger_patty_cheese": "Burger with patty and cheese",
+      "item.betons_rations_and_food.ham_slice": "Ham slice",
+      "item.betons_rations_and_food.canned_greens": "Canned Vegetables",
+      "item.betons_rations_and_food.cracker_pack": "Pack of crackers",
+      "item.betons_rations_and_food.omelette": "Omelette",
+      "item.betons_rations_and_food.box_o_chocolate": "Box Of Chocolate",
+      "item.betons_rations_and_food.big_ration_type_d": "Big Ration - Type D",
+      "item.betons_rations_and_food.box_o_condensed_milk": "Box of Condensed Milk",
+      "item.betons_rations_and_food.dough": "Dough",
+      "item.betons_rations_and_food.big_ration_type_c": "Big Ration - Type C",
+      "item.betons_rations_and_food.bread_slice": "Bread Slice",
+      "item.betons_rations_and_food.mosnter_shashlik": "Raw Shashlik",
+      "item.betons_rations_and_food.cheese_slices": "Cheese Slice",
+      "item.betons_rations_and_food.big_ration_type_b": "Big Ration - Type B",
+      "item.betons_rations_and_food.big_ration_type_a": "Big Ration - Type A"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "betons_rations_and_food",
+    "modName": "Beton\u0027s Rations and food mod",
+    "version": "1.0.0",
+    "author": "Beton",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "modElementsPackage": "net.mcreator.rationsandfood",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
